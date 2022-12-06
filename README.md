@@ -2,11 +2,8 @@
 The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 
-<p align="center">
-   <img  src="https://www.ampersandhealth.co.uk/wp-content/uploads/2018/11/Digital-Health-KD-01_WEB-674x450-2.jpg">
-</p>
 
- [ipynb](https://github.com/AminTaheri23/Pima-indian-diabetes-Deep-Learning/blob/master/pima-diabetes-classification-deep-learning.ipynb)
+(https://github.com/AminTaheri23/Pima-indian-diabetes-Deep-Learning/blob/master/pima-diabetes-classification-deep-learning.ipynb)
 
 
 ### Columns
