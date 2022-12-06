@@ -1,3 +1,29 @@
 # Prediction-of-PIMA-Diabetes
 The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
+
+<p align="center">
+   <img  src="https://www.ampersandhealth.co.uk/wp-content/uploads/2018/11/Digital-Health-KD-01_WEB-674x450-2.jpg">
+</p>
+
+ [ipynb](https://github.com/AminTaheri23/Pima-indian-diabetes-Deep-Learning/blob/master/pima-diabetes-classification-deep-learning.ipynb)
+
+
+### Columns
+
+|Columns|Description|
+|-------|------------|
+|Pregnancies|Number of times pregnant|
+|Glucose|Plasma glucose concentration for 2 hours in an oral glucose tolerance test|
+|BloodPressure|Diastolic blood pressure (mm Hg)|
+|SkinThickness|Triceps skin fold thickness (mm)|
+|Insulin|2-Hour serum insulin (mu U/ml)|
+|BMI|Body mass index (weight in kg/(height in m)^2)|
+|DiabetesPedigreeFunction|Diabetes pedigree function|
+|Age|Age (years)|
+|Outcome|Class variable (0 or 1) 268 of 768 are 1, the others are 0|
+
+### Context
+
+This dataset is originally from the National Institute of Diabetes, Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+
