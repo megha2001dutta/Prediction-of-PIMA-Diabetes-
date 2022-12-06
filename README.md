@@ -3,9 +3,6 @@ The datasets consist of several medical predictor (independent) variables and on
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 
 
-(https://github.com/AminTaheri23/Pima-indian-diabetes-Deep-Learning/blob/master/pima-diabetes-classification-deep-learning.ipynb)
-
-
 ### Columns
 
 |Columns|Description|
